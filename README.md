@@ -3,7 +3,7 @@
 The preservation and diffusion of culture in the digital form has been a priority for many nations, as in India, with the objective of preserving, highlighting and spreading the culture through information technologies. Nowadays, a large amount of multimedia content is produced. Therefore, more efficient and accurate systems are required to organize it.
 
 
-# Indian Heritage Monuments Dataset (IHMD) Description
+# IHMD Description
 
 Collected monument images from Google images, Wikimedia and Flickr based on the list of monuments obtained from Archaeological Survey of India (ASI). 
 
