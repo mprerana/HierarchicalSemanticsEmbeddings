@@ -1,6 +1,4 @@
-# Hierarchical Semantics Embeddings for Indian Heritage Monuments Image Retrieval
-
-# Introduction
+# Introduction to Indian Heritage Monuments Image Retrieval
 
 The preservation and diffusion of culture in the digital form has been a priority for many nations, as in India, with the objective of preserving, highlighting and spreading the culture through information technologies. Nowadays, a large amount of multimedia content is produced. Therefore, more efficient and accurate systems are required to organize it.
 
