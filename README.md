@@ -22,4 +22,5 @@ To download the released dataset, please:
 3. We will return an e-mail with download link to you as soon as possible.
 
 When using the IHMD dataset, please cite:
+
 Gupta, Ronak, Prerana Mukherjee, Brejesh Lall, and Varshul Gupta. "Semantics Preserving Hierarchy based Retrieval of Indian heritage monuments." arXiv preprint arXiv:2008.12832 (2020).
