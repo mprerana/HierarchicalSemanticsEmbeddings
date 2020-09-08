@@ -24,6 +24,8 @@ To download the released dataset, please:
 When using the IHMD dataset, please cite:
 
 > [**Semantics Preserving Hierarchy based Retrieval of Indian heritage monuments**](https://arxiv.org/abs/2008.12832).
+
 > Ronak Gupta, Prerana Mukherjee, Brejesh Lall, and Varshul Gupta. 
+
 > Structuring and Understanding of Multimedia heritAge Contents (SUMAC2020), ACM Multimedia Workshops, Seattle, United States, October 2020.
 
