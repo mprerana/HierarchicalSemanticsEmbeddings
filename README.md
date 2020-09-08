@@ -21,7 +21,7 @@ To download the released dataset, please:
 2. Send the PDF version of scanned Release Agreement with signature to ronak.p.gupta@gmail.com
 3. We will return an e-mail with download link to you as soon as possible.
 
-# When using the IHMD dataset, please cite:
+When using the IHMD dataset, please cite:
 
 > [**Semantics Preserving Hierarchy based Retrieval of Indian heritage monuments**](https://arxiv.org/abs/2008.12832).
 > Ronak Gupta, Prerana Mukherjee, Brejesh Lall, and Varshul Gupta. 
