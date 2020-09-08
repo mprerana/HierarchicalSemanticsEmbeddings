@@ -23,9 +23,7 @@ To download the released dataset, please:
 
 When using the IHMD dataset, please cite:
 
->@article{gupta2020semantics,
->  title={Semantics Preserving Hierarchy based Retrieval of Indian heritage monuments},
->  author={Gupta, Ronak and Mukherjee, Prerana and Lall, Brejesh and Gupta, Varshul},
->  journal={arXiv preprint arXiv:2008.12832},
->  year={2020}
->}
+> [**Semantics Preserving Hierarchy based Retrieval of Indian heritage monuments**](https://arxiv.org/abs/2008.12832)
+> Ronak Gupta, Prerana Mukherjee, Brejesh Lall, and Varshul Gupta. 
+> Structuring and Understanding of Multimedia heritAge Contents (SUMAC2020), ACM Multimedia Workshops, Seattle, United States, October 2020
+
